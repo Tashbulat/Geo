@@ -1,0 +1,52 @@
+https://geopy.readthedocs.io/en/stable/index.html
+https://shapely.readthedocs.io/en/latest/manual.html
+https://geopandas.org/
+https://geopandas.org/data_structures.html
+
+https://python-visualization.github.io/folium/quickstart.html
+https://python-visualization.github.io/folium/
+https://python-visualization.github.io/folium/plugins.html
+https://developers.arcgis.com/python/sample-notebooks/creating-hurricane-tracks-using-geoanalytics/
+
+http://api.sputnik.ru/maps/geocoder/
+
+https://nominatim.openstreetmap.org/details.php?place_id=234741720
+http://polygons.openstreetmap.fr/index.py
+https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL
+https://wiki.openstreetmap.org/wiki/Using_OpenStreetMap#Software_development
+https://wiki.openstreetmap.org/wiki/Applications_of_OpenStreetMap
+https://forum.openstreetmap.org/viewtopic.php?id=23653&p=7
+
+https://habr.com/ru/post/270513/
+https://www.geoalert.io/ru-RU/    Собирайте информацию и принимайте решения с помощью искусственного интеллекта, анализирующего снимки со спутников
+https://deparkes.co.uk/2016/06/03/plot-lines-in-folium/
+https://github.com/rendrom/rosreestr2coord    Инструмент, позволяющий вычислять координаты участка по его кадастровому номеру
+http://stat.gibdd.ru/
+https://dtp-stat.ru/
+https://github.com/tadata-ru/dtp-stat
+https://habr.com/ru/post/235283/    Ликбез по картографическим проекциям с картинками
+https://habr.com/ru/post/438700/
+https://habr.com/ru/company/ods/blog/338554/    Визуализация результатов выборов в Москве на карте в Jupyter Notebook
+https://habr.com/ru/post/354782/
+https://github.com/Shorstko/GibddStat
+https://towardsdatascience.com/loading-data-from-openstreetmap-with-python-and-the-overpass-api-513882a27fd0
+https://loading.io/color/feature/YlGn-7/
+https://www.sentiance.com/2018/05/03/venue-mapping/
+https://ieeexplore.ieee.org/document/8406847    A unified clustering approach for identifying functional zones in suburban and urban areas
+https://github.com/Ines2607/land-use-moscow/blob/main/land_use_moscow_git.ipynb
+https://www.walkscore.com/methodology.shtml    Walk Score Methodology
+https://github.com/hflabs/city
+https://dadata.ru/
+https://geointellect.com/
+https://geomatrix-retail.com/%D0%B0%D1%80%D0%BD%D0%BE-%D1%82%D1%80%D1%83%D1%81%D1%81%D0%B5-%D0%BA%D0%B0%D0%BA-%D0%BF%D1%80%D0%BE%D0%B0%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D1%82%D1%8C-%D1%82%D1%80%D0%B0/?lang=ru
+https://carto.com/
+https://carto.com/spatial-data-catalog/browser/dataset/wp_population_6507cfc7/
+https://www.worldpop.org/
+https://github.com/GeospatialPython/
+https://vc.ru/tribuna/153133-karta-peshehodnogo-trafika-moskvy    Карта пешеходного трафика Москвы
+https://gre4ark.livejournal.com/730368.html?fbclid=IwAR0vSQO3CmhZNzZRxxh26kdOfKIGefh8O8pDiUlEGaj-vg2FQYkylMe3Mz0
+https://dom.mingkh.ru/    Онлайн-сервис Дом.МинЖКХ является частью общественного инициатиавного проекта МинЖКХ.РУ и содержит инфомацию о жилом фонде в Российской Федерации
+С помощью плагина NNJoin QGIS каждому из отобранных ДТП присваивается значение ближайшего по расстоянию участка УДС
+loc2vec
+https://ermongroup.github.io/blog/tile2vec/
+geo2vec

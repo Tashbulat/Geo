@@ -1,0 +1,22 @@
+https://developers.arcgis.com/python/sample-notebooks/creating-hurricane-tracks-using-geoanalytics/
+https://geopandas.org/
+https://nominatim.openstreetmap.org/details.php?place_id=234741720
+http://polygons.openstreetmap.fr/index.py
+http://api.sputnik.ru/maps/geocoder/
+https://gre4ark.livejournal.com/730368.html?fbclid=IwAR0vSQO3CmhZNzZRxxh26kdOfKIGefh8O8pDiUlEGaj-vg2FQYkylMe3Mz0
+https://habr.com/ru/post/270513/
+https://python-visualization.github.io/folium/quickstart.html
+https://deparkes.co.uk/2016/06/03/plot-lines-in-folium/
+https://geopy.readthedocs.io/en/stable/#module-geopy.distance
+http://stat.gibdd.ru/
+https://dtp-stat.ru/
+https://habr.com/ru/post/438700/
+https://github.com/tadata-ru/dtp-stat
+https://habr.com/ru/post/354782/
+https://github.com/Shorstko/GibddStat
+https://towardsdatascience.com/loading-data-from-openstreetmap-with-python-and-the-overpass-api-513882a27fd0
+https://loading.io/color/feature/YlGn-7/
+https://www.sentiance.com/2018/05/03/venue-mapping/
+https://wiki.openstreetmap.org/wiki/Overpass_API/Overpass_QL
+
+loc2vec, geo2vec
